@@ -16,7 +16,7 @@ Passionate about **automation, microcontrollers, and AI**, I love exploring new 
 - [🔗 Project 3](#)
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=0w1py&show_icons=true&theme=radical)
 
 ### 📫 Connect with Me
 [Telegram](#) | [Instagram](#) | [Email](#) *(Coming soon...)*
@@ -41,7 +41,7 @@ Passionate about **automation, microcontrollers, and AI**, I love exploring new 
 - [🔗 پروژه ۳](#)
 
 ### 📊 آمار گیت‌هاب
-![آمار گیت‌هاب شما](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![آمار گیت‌هاب شما](https://github-readme-stats.vercel.app/api?username=0w1py&show_icons=true&theme=radical)
 
 ### 📫 راه‌های ارتباطی
 [تلگرام](#) | [اینستاگرام](#) | [ایمیل](#) *(به‌زودی...)*
