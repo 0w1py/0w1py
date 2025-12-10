@@ -1,4 +1,4 @@
-## Hi there, I'm 0w1py 👋
+## Hi there, I'm Ali 👋
 
 I'm a **Backend Web Developer** specializing in **Python & Django**, with experience in various programming languages and frameworks.
 Passionate about **automation, microcontrollers, and AI**, I love exploring new technologies and applying them to real-world problems.
@@ -23,7 +23,7 @@ Passionate about **automation, microcontrollers, and AI**, I love exploring new 
 
 ---
 
-## سلام، من 0w1py هستم 👋
+## سلام، من علی هستم 👋
 
 من یک **توسعه‌دهنده بک‌اند وب** متخصص در **Python و Django** هستم و تجربه کار با زبان‌ها و فریمورک‌های مختلف را دارم.
 به **اتوماسیون، میکروکنترلرها و هوش مصنوعی** علاقه‌مندم و از کشف فناوری‌های جدید و به‌کارگیری آن‌ها در مسائل دنیای واقعی لذت می‌برم.
