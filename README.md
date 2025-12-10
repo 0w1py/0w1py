@@ -4,7 +4,7 @@ I'm a **Backend Web Developer** specializing in **Python & Django**, with experi
 Passionate about **automation, microcontrollers, and AI**, I love exploring new technologies and applying them to real-world problems.
 
 ### 🔧 Skills & Technologies
-- **Programming & Frameworks:** Python, Django, HTML, CSS, JavaScript (moderately experienced)
+- **Programming & Frameworks:** Python, Django, HTML, CSS, JavaScript
 - **Libraries:** PyQt, Tkinter, Beautiful Soup, Selenium, Matplotlib, NumPy, pandas
 - **Version Control:** Git, GitHub, GitLab
 - **Databases:** Familiar with various databases including MySQL and PostgreSQL
@@ -29,7 +29,7 @@ Passionate about **automation, microcontrollers, and AI**, I love exploring new 
 به **اتوماسیون، میکروکنترلرها و هوش مصنوعی** علاقه‌مندم و از کشف فناوری‌های جدید و به‌کارگیری آن‌ها در مسائل دنیای واقعی لذت می‌برم.
 
 ### 🔧 مهارت‌ها و تکنولوژی‌ها
-- **برنامه‌نویسی و فریمورک‌ها:** پایتون، جنگو، HTML، CSS، جاوااسکریپت(تسلط متوسط)
+- **برنامه‌نویسی و فریمورک‌ها:** پایتون، جنگو، HTML، CSS، جاوااسکریپت
 - **کتابخانه‌ها:** آشنایی با PyQt، Tkinter، Beautiful Soup، Selenium، Matplotlib، NumPy، pandas
 - **کنترل نسخه:** Git، GitHub، GitLab
 - **دیتابیس‌ها:** آشنایی با پایگاه‌های داده مختلف از جمله MySQL و PostgreSQL
